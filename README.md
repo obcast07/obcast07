@@ -9,5 +9,8 @@ const obcast07 ={
 
 }
 ```
+### What I'm listening to:
+
+[![Spotify](https://novatorem-obcast07.vercel.app/api/spotify)](https://open.spotify.com/user/omarbarron7700)
 
 
