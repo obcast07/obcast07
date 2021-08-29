@@ -36,7 +36,7 @@ const obcast07 ={
 
 ### Stats:
 
-[![omarb77's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarb77&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![omarb77's GitHub stats](https://github-readme-stats.vercel.app/api?username=obcast07&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact 🌎:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/omarbarron.7700)
