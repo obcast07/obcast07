@@ -4,9 +4,9 @@
 ```js
 const obcast07 ={
   pronouns: "he" |"him"
-  code: [Javascript, Typescript, HTML5, CSS3, C/C++, Java]
-  learning: [Python, React]
-
+  code: [Javascript, Typescript, SQL, HTML5, CSS3, C/C++, Java]
+  learning: [SnowflakeSQL, Terraform, AWS Management, React]
+  tools: [PowerBI, Informatica Cloud, HVR, Fivetran Hybrid Deployment]
 }
 ```
 ### What I'm listening to:
